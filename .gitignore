@@ -1,1 +1,14 @@
 .git
+*.log
+*.pot
+*.psd
+*.pdf
+*.pyc
+*.pyo
+*.db
+.DS_Store
+.coverage
+local_settings.py
+/test
+/spec
+/__MACOSX
